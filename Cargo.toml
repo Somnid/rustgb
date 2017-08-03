@@ -1,0 +1,6 @@
+[package]
+name = "rustgb"
+version = "0.1.0"
+authors = ["Somnid"]
+
+[dependencies]
